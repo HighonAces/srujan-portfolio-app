@@ -6,7 +6,6 @@ export const SkillsDiv = styled.div`
   display: grid;
   grid-template-rows: 50px auto;
   color: #0a3a3a;
-  
 `
 
 export const SkillsH1 = styled.h1`

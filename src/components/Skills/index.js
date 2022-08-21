@@ -23,12 +23,12 @@ function SkillsWithPercentage({ title, percentage }) {
                 }}
             >
                 <div
-                    style={{
-                        backgroundColor: "lightblue",
-                        width: percentage,
-                        height: "5px"
-                    }}
-                ></div>
+    style={{
+        backgroundColor: "lightblue",
+        width: percentage,
+        height: "5px"
+    }}
+    />
             </div>
             <b style={{ marginLeft: "10px" }}>{percentage}</b>
         </div>
